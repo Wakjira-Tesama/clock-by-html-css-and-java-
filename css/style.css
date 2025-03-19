@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(45, 42, 42);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  position: relative;
+}
